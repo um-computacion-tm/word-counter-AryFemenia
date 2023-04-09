@@ -1,4 +1,7 @@
-# Contador de palabras
-### `Modos`
+# Contador
+### `Palabras`
 1) 
 2) 
+
+### `Letras`
+
